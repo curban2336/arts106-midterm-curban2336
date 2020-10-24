@@ -15,6 +15,8 @@ public class AudioManager : MonoBehaviour
     public AudioSource mainMusic;
     public AudioSource auxMusic;
     public AudioSource ambSound;
+    public AudioSource ambTwoSound;
+
 
     public AudioSource eventMusic;
 

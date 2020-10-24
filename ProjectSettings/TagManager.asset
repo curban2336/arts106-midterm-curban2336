@@ -7,6 +7,7 @@ TagManager:
   - Water
   - Enemy Zone
   - Ambience
+  - Ambience 2
   layers:
   - Default
   - TransparentFX
@@ -18,7 +19,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - Enemies
   - 
   - 
   - 
