@@ -77,5 +77,6 @@ AudioMixerSnapshotController:
   m_Name: Amb2In
   m_AudioMixer: {fileID: 24100000}
   m_SnapshotID: afdce7a589123b24fae28558f20eb432
-  m_FloatValues: {}
+  m_FloatValues:
+    f56d67a5948b03c4e98250242e474c36: -80
   m_TransitionOverrides: {}
