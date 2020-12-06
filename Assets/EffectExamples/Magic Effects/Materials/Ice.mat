@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Ice
   m_Shader: {fileID: 4800000, guid: f6a1776d52b856744ba06793c78b26fa, type: 3}
   m_ShaderKeywords: _ALPHAPREMULTIPLY_ON _EMISSION
@@ -107,8 +108,9 @@ Material:
     - _marchDistance: 0.5
     - _numSteps: 16
     m_Colors:
-    - _Color: {r: 0.48584908, g: 0.7016089, b: 1, a: 0.39215687}
+    - _Color: {r: 1, g: 0, b: 0, a: 0.36078432}
     - _EmissionColor: {r: 0.14470588, g: 0.15113996, b: 0.16, a: 1}
     - _EmissiveColor: {r: 1, g: 1, b: 1, a: 1}
     - _FresnelColor: {r: 0.8726415, g: 0.9390677, b: 1, a: 1}
     - _SpecColor: {r: 0.8014706, g: 0.8014706, b: 0.8014706, a: 1}
+  m_BuildTextureStacks: []

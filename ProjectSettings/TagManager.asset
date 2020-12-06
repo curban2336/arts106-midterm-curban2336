@@ -8,6 +8,7 @@ TagManager:
   - Enemy Zone
   - Ambience
   - Ambience 2
+  - Cannon
   layers:
   - Default
   - TransparentFX
