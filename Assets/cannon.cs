@@ -8,14 +8,16 @@ public class cannon : MonoBehaviour
 
     void Start()
     {
-        particle.GetComponent<ParticleSystem>().enableEmission = false;
+        //particle.GetComponent<ParticleSystem>().enableEmission = false;
+        particle.gameObject.SetActive(false);
     }
 
     void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Player"))
         {
-            particle.GetComponent<ParticleSystem>().enableEmission = true;
+            //particle.GetComponent<ParticleSystem>().enableEmission = true;
+            particle.gameObject.SetActive(true);
 
         }
     }
