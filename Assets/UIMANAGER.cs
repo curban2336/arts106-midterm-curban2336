@@ -5,14 +5,14 @@ using UnityEngine.SceneManagement;
 
 public class UIMANAGER : MonoBehaviour
 {
-
+    
     // Start is called before the first frame update
-    public void StartGame()
+    public void FinalScene()
     {
         SceneManager.LoadScene("MidtermProject");
     }
 
-    public void Composition()
+    public void CompositionScene()
     {
         SceneManager.LoadScene("Composition");
     }
